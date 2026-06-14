@@ -3,7 +3,6 @@
 
 I am a security-focused Computer Science student operating with a "security-first" engineering mindset. My work bridges the gap between software development, network infrastructure defense, and automated threat mitigation. I specialize in building custom security scripts, exploring digital forensics, and analyzing software vulnerabilities.
 
----
 
 ## 🏢 Current Focus & Experience
 * 🛡️ **Cybersecurity Intern** at Software Productivity Strategists, Inc. (SPS) — Focusing on enterprise technology stacks, corporate risk workflows, and security operations shadowing.
@@ -14,7 +13,6 @@ I am a security-focused Computer Science student operating with a "security-firs
 * **Network & Infrastructure:** Cisco IOS (CCNA Frameworks), Linux System Administration, Firewalls
 * **Security & Forensics:** Automated Vulnerability Audits (MobSF, OWASP ZAP), Digital Forensics (TestDisk), Traffic Analysis (Wireshark)
 
----
 
 ## 📊 Core Portfolio Highlights
 
@@ -27,6 +25,5 @@ I am a security-focused Computer Science student operating with a "security-firs
 ### 📁 System Security Labs
 * **[Enterprise System Hardening & Vulnerability Diagnostics]** - Practical documentation covering OS hardening parameters, static/dynamic mobile app analysis (MobSF), and OWASP web application assessments.
 
----
 
 📬 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/waadkhattak?utm_source=share_via&utm_content=profile&utm_medium=member_android) to talk about security automation, incident response, or network architecture!
