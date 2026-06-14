@@ -30,5 +30,3 @@ I am a security-focused Computer Science student operating with a "security-firs
 ---
 
 📬 **How to reach me:** Connect with me on [LinkedIn](https://www.linkedin.com/in/waadkhattak?utm_source=share_via&utm_content=profile&utm_medium=member_android) to talk about security automation, incident response, or network architecture!
-
-make the hashes etec remove just professional look so its there
